@@ -13,10 +13,9 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/MouseX/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://search.cpan.org/CPAN/authors/id/M/MA/MASAKI/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	d6283288e9ba7cbfece79a04b8b3dc22
-# generic URL, check or change before uncommenting
-#URL:		http://search.cpan.org/dist/MouseX-Types-Path-Class/
+URL:		http://search.cpan.org/dist/MouseX-Types-Path-Class/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
