@@ -8,13 +8,13 @@
 Summary:	MouseX::Types::Path::Class - A Path::Class type library for Mouse
 Summary(pl.UTF-8):	MouseX::Types::Path::Class - biblioteka typu Path::Class dla Mouse
 Name:		perl-MouseX-Types-Path-Class
-Version:	0.05
+Version:	0.06
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/M/MA/MASAKI/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d6283288e9ba7cbfece79a04b8b3dc22
+# Source0-md5:	166faea5156d065ce495993026b90848
 URL:		http://search.cpan.org/dist/MouseX-Types-Path-Class/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
