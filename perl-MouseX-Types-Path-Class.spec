@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	MouseX
 %define	pnam	Types-Path-Class
 Summary:	MouseX::Types::Path::Class - A Path::Class type library for Mouse
